@@ -1,0 +1,21 @@
+{
+  "ProjectManagerInformations": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "Sandhya"
+    }
+  ],
+  "InternsInformations": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "TeamLeadsInformations": {
+    "Fname": "Sandhya"
+    "LName": "Thakral"
+    "id":2
+  }
+}
